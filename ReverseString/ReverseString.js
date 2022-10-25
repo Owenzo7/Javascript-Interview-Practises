@@ -43,7 +43,7 @@ const arr = str.split('')
 
 const reversedArray = arr.reverse()
 
-// Convert the new array back to a string 
+// Convert the new array back to a string  
 
  return reversedArray.join('')
 
